@@ -19,7 +19,7 @@
 
 ---
 
-### 📊 ابزارها و تکنولوژی‌ها  
+## 📊 Tooling  
 
 #### 🧰 DevOps & Automation  
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326ce5?logo=kubernetes&logoColor=white)
