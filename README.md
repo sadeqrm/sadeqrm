@@ -1,19 +1,24 @@
-# 👋 سلام! من محمدصادق رخشانی مقدم هستم  
+<div align="center">
+
+# 👋 سلام! من صادقم  
 
 ### 🚀 DevOps Engineer | Infrastructure & Network Specialist | Automation Enthusiast  
 
-بیش از **۱۳ سال تجربه تخصصی** در حوزه‌های زیر دارم:  
-- 🖥️ **زیرساخت و شبکه** (Routing, Switching, Security)  
-- ☁️ **مجازی‌سازی و Cloud** (VMware, KVM, Proxmox)  
-- 🛠️ **مانیتورینگ و Observability** (Prometheus, Grafana, Zabbix, ELK Stack)  
-- ⚙️ **DevOps & Automation** (Kubernetes, Docker, Ansible, Terraform, GitOps/ArgoCD, CI/CD)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/muhamed-sadeq-rakhshani-moqadam-47022a62/)
 
-سه سال اخیر بیشتر تمرکزم روی **DevOps**، **اتوماسیون** و **ابزارهای مدرن زیرساختی** بوده.  
-به شدت علاقه‌مند به یادگیری، اشتراک‌گذاری دانش و حل چالش‌های مقیاس‌پذیری و پایداری سرویس‌ها هستم.  
+</div>
 
 ---
 
-### 📊 ابزارها و تکنولوژی‌ها
+### 🛠 درباره من
+- 🖥️ بیش از **۱۳ سال تجربه** در زیرساخت و شبکه  
+- ☁️ متخصص مجازی‌سازی و Cloud (VMware, Proxmox, KVM)  
+- 📊 مانیتورینگ و Observability (Prometheus, Grafana, Zabbix, ELK Stack)  
+- ⚙️ DevOps و Automation (Kubernetes, Docker, Terraform, Ansible, ArgoCD, CI/CD)  
+
+---
+
+### 📊 ابزارها و تکنولوژی‌ها  
 
 #### 🧰 DevOps & Automation  
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326ce5?logo=kubernetes&logoColor=white)
@@ -38,15 +43,13 @@
 
 ### 📈 GitHub Stats  
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=radical)  
+<div align="center">
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=sadeqrm&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sadeqrm&layout=compact&theme=radical)  
+
+</div>
 
 ---
 
-### 🌐 شبکه‌های اجتماعی  
-
-🔗 [LinkedIn](https://www.linkedin.com/in/لینک-لینکدین-خودت/)  
-
----
-
-✨ *"زیرساخت پایدار یعنی آرامش تیم توسعه."*  
+✨ *"زیرساخت پایدار یعنی آرامش تیم توسعه."*
