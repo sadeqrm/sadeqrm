@@ -2,7 +2,7 @@
 
 # 👋 سلام! من صادقم  
 
-### 🚀 DevOps Engineer | Infrastructure & Network Specialist | Automation Enthusiast  
+### 🚀 DevOps | Infrastructure & Linux Specialist | Automation Enthusiast  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/muhamed-sadeq-rakhshani-moqadam-47022a62/)
 
