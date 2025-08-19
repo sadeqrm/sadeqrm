@@ -44,11 +44,6 @@
 
 ### 📈 GitHub Stats  
 
-<div align="left">
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=sadeqrm&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sadeqrm&layout=compact&theme=radical)  
-
-</div>
-
+| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sadeqrm&show_icons=true&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sadeqrm&layout=compact&theme=radical) |
+|---|---|
 ---
