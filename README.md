@@ -11,7 +11,7 @@
 ---
 ## About Me  
 
-🔧 [utravs.com](https://utravs.com) – DevOps Engineer  
+🔧 DevOps Engineer @[utravs.com](https://utravs.com)  
 🖥️ 13+ years of experience in Infrastructure and Networking  
 ☁️ Virtualization & Cloud Specialist (VMware, Proxmox, KVM)  
 📊 Monitoring & Observability (Prometheus, Grafana, Zabbix, ELK Stack)  
